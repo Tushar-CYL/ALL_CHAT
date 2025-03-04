@@ -1,0 +1,9 @@
+streamlit
+python-dotenv
+groq
+google-generativeai
+gtts
+pydub
+pymupdf  # for fitz (PyMuPDF)
+python-docx  # for docx support
+huggingface_hub
